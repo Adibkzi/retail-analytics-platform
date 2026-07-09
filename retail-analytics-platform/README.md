@@ -40,23 +40,7 @@ This project addresses these challenges by building a scalable analytics platfor
 
 ## 🏗️ Solution Architecture
 
-```text
-                Raw CSV Files
-                     │
-                     ▼
-          Bronze Layer (Raw Data)
-                     │
-                     ▼
-      Silver Layer (Cleaned & Validated)
-                     │
-                     ▼
-    Gold Layer (Business Ready Models)
-                     │
-                     ▼
-         Power BI Executive Dashboard
-```
-
----
+![Architecture](images/architecture_v1.png)
 
 ## 🛠️ Technology Stack
 
