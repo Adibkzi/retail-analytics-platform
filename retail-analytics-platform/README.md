@@ -40,7 +40,7 @@ This project addresses these challenges by building a scalable analytics platfor
 
 ## 🏗️ Solution Architecture
 
-![Architecture](images/architecture_v1.png)
+![Architecture](images/architecture_v1.drawio.png)
 
 ## 🛠️ Technology Stack
 
